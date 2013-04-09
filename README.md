@@ -22,3 +22,5 @@ Sure, send me some lovely Bitcoins to 18krgoMr5yNRX8dAg1XTuxXmCpvwzDxRgu
 
 Are you a hacker?
 http://catb.org/hacker-emblem/
+
+[![Build Status](https://travis-ci.org/PartTimeLegend/BitcoinExchangeAutoHacker.png?branch=master)](https://travis-ci.org/PartTimeLegend/BitcoinExchangeAutoHacker)
