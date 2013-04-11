@@ -24,3 +24,5 @@ Are you a hacker?
 http://catb.org/hacker-emblem/
 
 [![Build Status](https://travis-ci.org/PartTimeLegend/BitcoinExchangeAutoHacker.png?branch=master)](https://travis-ci.org/PartTimeLegend/BitcoinExchangeAutoHacker)
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/BitcoinExchangeAutoHacker&title=Bitcoin Exchange Auto Hacker&language=&tags=github&category=software) 
